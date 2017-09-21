@@ -1,4 +1,5 @@
 #!/bin/bash
+echo >text
 for i in {0..100}
 do
 	./hw3q5 "File${i}.txt" >> text
