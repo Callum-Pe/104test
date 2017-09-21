@@ -1,3 +1,4 @@
 Test cases for cs 104 hw3q5
 Copy your executable into the directory and run bash ./script in the terminal.
-This compares the output of you exectutable to the one I generated.
+This compares the output of your exectutable to the one I generated.
+If nothing is outputed after the script, that means the results were identical.
