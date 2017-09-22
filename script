@@ -1,6 +1,7 @@
 #!/bin/bash
-echo >text
-for i in {0..100}
+./hw3q5 "File0.txt" > text
+echo >> text
+for i in {1..100}
 do
 	./hw3q5 "File${i}.txt" >> text
 	echo >> text
